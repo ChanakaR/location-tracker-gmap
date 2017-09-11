@@ -2,5 +2,7 @@
   "name": "location-tracker-gmap",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
